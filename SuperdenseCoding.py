@@ -13,8 +13,8 @@ circ = cirq.Circuit()
 
 # Dictionary of operations for each message
 message = {"00": [],
-           "10": [cirq.X(qreg[0])],
-           "01": [cirq.Z(qreg[0])],
+           "10": [cirq.X(qreg[0])], # In the book the author applies here the Z gate.
+           "01": [cirq.Z(qreg[0])], # In the book the author applies here the X gate.
            "11": [cirq.X(qreg[0]), cirq.Z(qreg[0])]}
 
 # Alice creates a Bell pair
