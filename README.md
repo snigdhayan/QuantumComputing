@@ -1,3 +1,2 @@
-# Quantum Computing
-
-Simply playing with the Cirq examples from https://github.com/JackHidary/quantumcomputingbook
+# QuantumComputing
+I am exploring here the circuit model of quantum computing based on Cirq (https://github.com/JackHidary/quantumcomputingbook).
