@@ -1,5 +1,8 @@
-# encoding: utf-8
+# coding: utf-8
 
+# Create an oracle that returns 1 for a specific bitstring (randomly selected) of length 2; otherwise, it returns 0.
+# Design a circuit on 2 qubits to implement the Grover's search algorithm; only one invocation of the oracle is needed.
+# Simulate and print results.
 
 # Imports
 import random
